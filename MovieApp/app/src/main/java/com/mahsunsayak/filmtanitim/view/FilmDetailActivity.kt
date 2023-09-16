@@ -33,7 +33,7 @@ class FilmDetailActivity : AppCompatActivity() {
 
         binding.watchMovieButton.setOnClickListener {
             val intent = Intent(this, WatchMovieActivity::class.java)
-            intent.putExtra("movieUrl", "https://hdfilmcehennemi.cx/")
+            intent.putExtra("movieUrl", "https://www.fullhdfilmizlesene.pw/") //Site rastgele seçilmiştir. Amaç WebView kullanarak veriyi aktivite de göstermek.
             startActivity(intent)
         }
 

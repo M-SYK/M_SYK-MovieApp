@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/black"
+    android:gravity="center">
+
+    <ImageView
+        android:id="@+id/myImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="192dp"
+        android:src="@drawable/film" />
+
+    <Button
+        android:id="@+id/popularButton"
+        style="@style/ButtonStyle"
+        android:text="Popüler Filmler"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/nowPlayingButton"
+        style="@style/ButtonStyle"
+        android:text="Gösterimdekiler"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/topRatedButton"
+        style="@style/ButtonStyle"
+        android:text="En Fazla Oy Alanlar"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/upcomingButton"
+        style="@style/ButtonStyle"
+        android:text="Yakında"
+        android:textAllCaps="false"/>
+</LinearLayout>
+

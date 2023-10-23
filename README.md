@@ -1,20 +1,20 @@
-Film Uygulaması
+# Film Uygulaması
 Bu proje, Kotlin programlama dili kullanılarak geliştirilmiş bir film uygulamasıdır. Uygulama, kullanıcılara popüler, gösterimdeki, en fazla oy alanlar ve yakında vizyona girecek filmleri gösteren dört ana kategori sunar. Kullanıcılar, istedikleri kategoriye tıklayarak o kategorideki filmleri listeleyebilirler.
 
-Özellikler
+# Özellikler
 Popüler Filmler: Bu kategori, dünya genelinde popüler olan filmleri listeler.
 Gösterimdeki Filmler: Bu kategori, şu an sinemalarda gösterilen filmleri gösterir.
 En Fazla Oy Alanlar: Bu kategori, en yüksek oy alan filmleri sıralar.
 Yakında Vizyona Girecekler: Bu kategori, yakın bir tarihte vizyona girecek olan filmleri listeler.
 Kullanıcılar, herhangi bir filmi seçtiklerinde, seçtikleri film hakkında detaylı bilgilere erişebilirler. Ayrıca, istenirse fragmanı izleme veya filmi izleme seçenekleri de mevcuttur.
 
-Nasıl Kullanılır?
+# Nasıl Kullanılır?
 Bir kategori seçtiğinizde, o kategoriye ait filmleri listeleyeceksiniz.
 Bir film seçtiğinizde, film hakkında ayrıntılı bilgilere ulaşabilirsiniz.
 İsterseniz fragmanı izleyebilir veya filmi izlemek için uygun seçeneklere tıklayabilirsiniz.
 
-Teknolojiler
-Bu proje, Kotlin programlama dilinde geliştirilmiştir ve [API Adı]'yi kullanarak film verilerini çeker.
+#Teknolojiler
+Bu proje, Kotlin programlama dilinde geliştirilmiştir ve API kullanarak film verilerini çeker.
 
 Ekran Görüntüleri
 
